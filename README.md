@@ -1,3 +1,11 @@
+# ビルド
+TypeScript から JavaScript にビルドする。
+
+```bash
+$ yarn build
+$ ls -la dist
+```
+
 # 関数化
 `app.js` を参考にする。
 
