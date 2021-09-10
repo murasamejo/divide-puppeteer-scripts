@@ -3,7 +3,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "puppeteer": "^2.0.0"
+    "puppeteer": "10.2.0"
   },
   "devDependencies": {
     "@types/node": "^13.5.0",
