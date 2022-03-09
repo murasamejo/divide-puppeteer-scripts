@@ -2,7 +2,7 @@
   "name": "divide-puppeteer-scripts",
   "version": "0.0.1",
   "dependencies": {
-    "puppeteer": "13.4.1"
+    "puppeteer": "13.5.1"
   },
   "devDependencies": {
     "@types/node": "17.0.0",
